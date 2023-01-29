@@ -6,7 +6,7 @@
 ![](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Fullstack Engineer working for a [Flaconi GmbH](https://flaconi.de/)
+- 🏦 I'm a Fullstack Engineer working at a [Flaconi GmbH](https://flaconi.de/)
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.js**, **.ts**, **.jsx**
 - 🧑‍💻 Tech I work on :
@@ -14,8 +14,8 @@
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git-scm" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git-scm" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="aws-lambda" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="60" height="50"/>
@@ -27,10 +27,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavros-liaskos&layout=compact&text_color=daf7dc&bg_color=151515&hide=vue,css,html)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stavros-liaskos&theme=dark)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.64 % as on ⏰ 27-Jan-2023
+⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.78 % as on ⏰ 28-Jan-2023
 
 ---
+
