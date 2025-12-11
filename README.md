@@ -28,7 +28,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stavros-liaskos&theme=dark)](https://git.io/streak-stats)
 
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 93.99 % as on ⏰ 9-Dec-2025
+⏳ **Year Progress** { ████████████████████████████▁▁ } 94.27 % as on ⏰ 10-Dec-2025
 
 ---
 
